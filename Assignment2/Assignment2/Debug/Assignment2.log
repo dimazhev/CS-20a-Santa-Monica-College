@@ -1,0 +1,7 @@
+﻿  problem1.cpp
+  problem2.cpp
+  problem3.cpp
+  Generating Code...
+problem2.obj : error LNK2005: _main already defined in problem1.obj
+problem3.obj : error LNK2005: _main already defined in problem1.obj
+C:\Users\Sharkbait\source\repos\Assignment2\Debug\Assignment2.exe : fatal error LNK1169: one or more multiply defined symbols found
